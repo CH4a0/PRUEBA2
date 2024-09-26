@@ -1,0 +1,19 @@
+.menu{
+    background-color: rgb(70, 70, 70);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+.menu a{
+    padding: 15px 16px;
+    text-decoration: none;
+    color: white;
+    display: block;
+    float: left;
+}
+.menu a:hover{
+    background-color: black;
+    color: white;
+}
