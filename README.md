@@ -3,3 +3,4 @@
 Hola
 Modificacion de prueba para comprobar el remoto
 DEPENDE 08/10/2024
+Modificacion para conflictos entre yatusave
